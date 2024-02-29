@@ -28,7 +28,7 @@
 
 ### Ответ
 
-
+![screen](https://github.com/Jlljully/monitoring/blob/main/files/lesson_2/SCR-20240229-suft.png)
 
 #
 ### Задание 2
@@ -50,7 +50,20 @@
 
 ### Ответ
 
+```
+avg(rate(node_cpu_seconds_total{mode="idle"}[1m]))*100
 
+node_load1
+node_load5
+node_load15
+
+node_memory_MemAvailable_bytes
+
+node_filesystem_avail_bytes{device="/dev/vda2", fstype="ext4", instance="nodeexporter:9100", job="nodeexporter", mountpoint="/"}
+
+```
+
+![screen](https://github.com/Jlljully/monitoring/blob/main/files/lesson_2/SCR-20240229-twqz.png)
 
 #
 ### Задание 3
@@ -58,6 +71,11 @@
 1. Создайте для каждой Dashboard подходящее правило alert — можно обратиться к первой лекции в блоке «Мониторинг».
 1. В качестве решения задания приведите скриншот вашей итоговой Dashboard.
 
+### Ответ
+
+![screen](https://github.com/Jlljully/monitoring/blob/main/files/lesson_2/SCR-20240229-ufny.png)
+
+#
 ### Задание 4
 
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
@@ -65,7 +83,6 @@
 
 ### Ответ
 
-
-
+[link](https://github.com/Jlljully/monitoring/blob/main/files/lesson_2/dashboard.json)
 #
 
