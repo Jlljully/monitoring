@@ -76,7 +76,7 @@ P.S.: если при запуске некоторые контейнеры б�
 
 ## Ответ
 
-![screen](https://github.com/Jlljully/monitoring/blob/main/files/lesson1/SCR-20240124-sdft.jpg)
+![screen](https://github.com/Jlljully/monitoring/blob/main/files/lesson_1/SCR-20240124-sdft.jpg)
 
 #
 8. Перейдите в веб-интерфейс Chronograf (http://localhost:8888) и откройте вкладку Data explorer.
@@ -90,7 +90,7 @@ P.S.: если при запуске некоторые контейнеры б�
 
 ## Ответ
 
-![screen](https://github.com/Jlljully/monitoring/blob/main/files/lesson1/SCR-20240124-sryh.jpg)
+![screen](https://github.com/Jlljully/monitoring/blob/main/files/lesson_1/SCR-20240124-sryh.jpg)
 
 #
 9. Изучите список [telegraf inputs](https://github.com/influxdata/telegraf/tree/master/plugins/inputs). 
@@ -124,7 +124,7 @@ P.S.: если при запуске некоторые контейнеры б�
 
 ## Ответ
 
-![screen](https://github.com/Jlljully/monitoring/blob/main/files/lesson1/SCR-20240124-sriu.jpg)
+![screen](https://github.com/Jlljully/monitoring/blob/main/files/lesson_1/SCR-20240124-sriu.jpg)
 
 #
 ## Дополнительное задание (со звездочкой*) - необязательно к выполнению
