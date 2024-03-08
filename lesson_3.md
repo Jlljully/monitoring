@@ -54,3 +54,11 @@ Filebeat следует сконфигурировать для отправки
 Эти логи должны порождать индекс logstash-* в elasticsearch. Если этого индекса нет — воспользуйтесь советами и источниками из раздела «Дополнительные ссылки» этого задания.
  
 ---
+
+## Ответ
+
+![Поднялись](https://github.com/Jlljully/monitoring/blob/main/files/lesson_3/SCR-20240308-orkn.png)
+
+![Добавила DataView](https://github.com/Jlljully/monitoring/blob/main/files/lesson_3/SCR-20240308-pjvk.png)
+
+![Логи](https://github.com/Jlljully/monitoring/blob/main/files/lesson_3/SCR-20240308-pzat.png)
